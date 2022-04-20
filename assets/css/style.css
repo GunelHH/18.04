@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.cus-head {
+  background-color: #2a3744;
+  height: 100px;
+  text-transform: uppercase;
+}
+.first-section {
+  background-color: rgb(90, 193, 159);
+  height: 100vh;
+}
+.image img {
+  width: 15rem;
+}
+.nav-a {
+  color: aliceblue;
+  font-weight: bold;
+}
+.nav-a:hover {
+  color: rgb(90, 193, 159);
+}
+.main-section {
+  font-size: 50px;
+}
+.first-section h2,
+i,
+p {
+  font-size: 50px;
+}
+.left-icon {
+  height: 5px;
+  width: 150px;
+  border-radius: 12px;
+  background-color: white;
+}
+.right-icon {
+  height: 5px;
+  width: 150px;
+  border-radius: 12px;
+  background-color: white;
+}
+.logo .icon {
+  margin: 0 12px;
+}
